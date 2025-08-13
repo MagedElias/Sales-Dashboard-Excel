@@ -68,5 +68,6 @@ This project is licensed under the **MIT License** – feel free to use and modi
 
 ## ✨ Author
 **Maged Magdy Nageeb Elias**  
+📍 Created during my training in the **Digital Egypt Pioneers Initiative (DEPI)**  
 💻 GitHub Profile: https://github.com/MagedElias  
 📧 Contact: magedelias53@gmail.com
